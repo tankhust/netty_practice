@@ -11,7 +11,7 @@ import java.nio.channels.FileChannel;
  */
 public class NioTest2 {
     public static void main(String[] args) throws Exception {
-        FileInputStream inputStream = new FileInputStream("NioTest.txt");
+        FileInputStream inputStream = new FileInputStream("NioTest13.txt");
         FileChannel channel = inputStream.getChannel();
         ByteBuffer byteBuffer = ByteBuffer.allocate(512);
         channel.read(byteBuffer);
