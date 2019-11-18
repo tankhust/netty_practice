@@ -7,7 +7,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * netty应用于聊天服务器
+ * netty应用于聊天服务器，一个服务器端连接多个客户端
  * @author tank
  * @create 2019/11/10 11:02
  */

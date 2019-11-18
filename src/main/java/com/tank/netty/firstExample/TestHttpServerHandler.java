@@ -10,6 +10,7 @@ import io.netty.util.CharsetUtil;
 import java.net.URI;
 
 /**
+ * 基于http
  * @author tank
  * @create 2019/11/05 20:51
  */

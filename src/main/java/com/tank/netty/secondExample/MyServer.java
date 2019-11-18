@@ -7,7 +7,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * netty应用于rpc服务器
+ * netty应用于rpc服务器，基于http
  * @author tank
  * @create 2019/11/07 13:16
  */
